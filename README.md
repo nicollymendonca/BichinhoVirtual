@@ -1,2 +1,2 @@
-# BichinhoVirtual
+# BichinhoVirtual-java
 Atividade de POO 
